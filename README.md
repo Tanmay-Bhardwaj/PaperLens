@@ -1,25 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://drive.google.com/file/d/16L8g0_R2wfD0IM0gnjQD-_K-zxSUCnAz/view?usp=sharing" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/7f3ad158-6466-4c27-9557-d7cb96236003
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-
-
    <p align="center">
   <img src="https://img.shields.io/badge/PaperLens-AI-blueviolet?style=for-the-badge&logo=google&logoColor=white" alt="PaperLens AI" />
   <img src="https://img.shields.io/badge/Powered%20By-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
