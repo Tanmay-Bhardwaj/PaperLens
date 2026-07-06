@@ -1,0 +1,6 @@
+{
+  "name": "PaperLens AI",
+  "description": "The world's most intelligent scientific paper understanding platform. Analyze papers at different difficulty levels from beginner to expert.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
