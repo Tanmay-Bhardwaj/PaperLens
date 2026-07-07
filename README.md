@@ -155,6 +155,7 @@ Built with ❤️ by a student builder passionate about making research accessib
 
 - 🌐 Live App: [paperlens-ai-116737029100.asia-southeast1.run.app](https://paperlens-ai-116737029100.asia-southeast1.run.app/)
 - 📬 Open an issue for bugs, feedback, or feature requests
+- Author: Linkedin: https://www.linkedin.com/in/tanmay-bhardwaj-448481334/
 
 ***
 
